@@ -1,3 +1,12 @@
-[submodule "PortfolioServerZone"]
-	path = PortfolioServerZone
-	url = https://github.com/TaiseiHamaya/PortfolioServerZone.git
+[submodule "portfolio-server-db"]
+	path = portfolio-server-db
+	url = https://github.com/TaiseiHamaya/portfolio-server-db
+[submodule "portfolio-server-zone"]
+	path = portfolio-server-zone
+	url = https://github.com/TaiseiHamaya/portfolio-server-zone
+[submodule "portfolio-server-world"]
+	path = portfolio-server-world
+	url = https://github.com/TaiseiHamaya/portfolio-server-world
+[submodule "portfolio-server-gateway"]
+	path = portfolio-server-gateway
+	url = https://github.com/TaiseiHamaya/portfolio-server-gateway
